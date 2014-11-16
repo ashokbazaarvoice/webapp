@@ -44,6 +44,12 @@
 		</a>
 	  </td>
       </tr>
+      <tr>
+      <!-- The page will make a web service call to pull the items related to current item viewed(sku). -->
+        <td> Recommendations for you: <img width="357" height="515"
+			src="static/<%=session.getAttribute("sku")%>" title="">
+        </td>
+      </tr>
     </table>
   </body>
 </html>
