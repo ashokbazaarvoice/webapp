@@ -1,0 +1,33 @@
+body {
+    color: #222;
+    font-family: Arial;
+    font-size: 13px;
+    line-height: 18px;
+}
+h1 {
+    color: navy;
+    align: center;
+}
+.offer-out {
+    background-color: #666;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 10px;
+    line-height: 14px;
+    margin-top: 8px;
+    padding: 0 4px;
+    position: absolute;
+}
+.txt-up {
+    text-transform: uppercase;
+}
+.left-nav {
+    width: 198px;
+}
+.right-content {
+    position: relative;
+    width: 776px;
+}
+.fr {
+    float: right;
+}
